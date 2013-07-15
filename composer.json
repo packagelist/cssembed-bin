@@ -1,0 +1,21 @@
+{
+    "name": "packagist/cssembed-bin",
+    "description": "CSSEmbed packaged for composer. A small program/library to automate embedding of data URIs in CSS files.",
+    "keywords": [ "css" ],
+    "license": "MIT",
+    "homepage": "https://github.com/nzakas/cssembed",
+    "authors": [
+        {
+            "name": "Nicholas C. Zakas",
+            "homepage": "https://github.com/nzakas",
+            "role": "developer"
+        }
+        {
+            "name": "Krusty Kode",
+            "email": "kaiwa@20minutemail.com",
+            "role": "maintainer"
+        }
+    ],
+    "require": { },
+    "bin": [ "bin/cssembed.jar" ]
+}
