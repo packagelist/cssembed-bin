@@ -1,5 +1,5 @@
 {
-    "name": "packagist/cssembed-bin",
+    "name": "packagelist/cssembed-bin",
     "description": "CSSEmbed packaged for composer. A small program/library to automate embedding of data URIs in CSS files.",
     "keywords": [ "css" ],
     "license": "MIT",
